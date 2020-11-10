@@ -1,4 +1,4 @@
-# flight-search-results
+# 3d-flipping animation card
 This is card with 3d-flipping animation.
 Open demo, hover the card and enjoy 3-d animation.
 
